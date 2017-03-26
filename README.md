@@ -11,6 +11,7 @@ MBED account
 1. create StarterKit flow and M2X device
 
 2. compile binary in MBED
+   * get the code https://developer.mbed.org/teams/Avnet/code/Avnet_ATT_Cellular_IOT/
    * change server, URL and device name
 
 3. activate the SIM on http://starterkit.att.com/app/sim-cards
